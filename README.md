@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 * **[r/selfhosted](https://www.reddit.com/r/selfhosted/)**: I've learned a lot about deploying and managing open-source applications from this community.
 * **[r/linux4noobs](https://www.reddit.com/r/linux4noobs/)**: A supportive community, and a great resource for seeing solutions to common beginner-level issues.
 * **[r/linux](https://www.reddit.com/r/linux/)**: I follow this subreddit for broader news and discussions about the Linux ecosystem.
+* **[TechSpot](https://www.techspot.com/)**: Stay up-to-date on various trending technology topics.
 
 ---
 
