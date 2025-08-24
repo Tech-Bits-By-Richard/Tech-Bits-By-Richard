@@ -1,6 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 ### Welcome to my little part of the internet where I work on things :scroll:
 ---
+
 <!--
 **Tech-Bits-By-Richard/Tech-Bits-By-Richard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### Information Technology Communities I follow
+### Information Technology Communities I follow
 
 * **[r/CompTIA](https://www.reddit.com/r/CompTIA/)**: I follow this community to stay current on IT certifications and industry-recognized skills.
 * **[r/networking](https://www.reddit.com/r/networking/)**: I use this subreddit to keep up with the latest networking technologies and troubleshoot complex issues.
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### Why IT?
+### Why IT?
 
 My passion for IT is rooted in my curiosity about how things work. I enjoy the process of disassembling a concept—whether it's a network, a server, or an application—and understanding the role of each piece. The most rewarding part is seeing how those individual functions fit together to create a powerful whole.
 
